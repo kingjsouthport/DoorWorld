@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Inspector
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 564
     height: 561
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -120,8 +120,8 @@ MonoBehaviour:
     y: 0
     width: 362
     height: 561
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -343,22 +343,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/JKBuildingPack1
+    - Assets/Doors/JK
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/JKBuildingPack1
+  - Assets/Doors/JK
   m_LastFoldersGridSize: -1
   m_LastProjectPath: F:\GitHub\DoorWorld
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ca5e0000
-    m_LastClickedID: 24266
-    m_ExpandedIDs: 00000000a25e0000a65e000000ca9a3b
+    m_SelectedIDs: 388b0000
+    m_LastClickedID: 35640
+    m_ExpandedIDs: 00000000ac5e0000ce5e0000d05e0000bc63000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,7 +386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a25e0000a45e0000a65e0000
+    m_ExpandedIDs: 00000000ac5e0000ae5e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -413,8 +413,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000726500005c67000098670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -516,7 +516,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: da0fffff4a6fffff966fffffe692ffff02fbffff12fbffff
+      m_ExpandedIDs: e26cfdff3c6dfdff0674fdff4c7efdff667efdff6ea4fdff8ec9fdffcac9fdffeac9fdffecc9fdff68cafdff84cafdff8ccafdff2cdffdffa8e6fdffbe03feff2a0bfeffc40cfeffa619feffde8afeff2abefeff2ebefeff58ddfeff12fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -765,9 +765,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.6539842, y: 1.8453742, z: 1.7222396}
+    m_Target: {x: 3.1685345, y: 1.5427338, z: 0.51466036}
     speed: 2
-    m_Value: {x: 1.6539842, y: 1.8453742, z: 1.7222396}
+    m_Value: {x: 3.1685345, y: 1.5427338, z: 0.51466036}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -814,13 +814,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.048268676, y: 0.03026929, z: -0.0015271445, w: 0.9984154}
+    m_Target: {x: -0.067014515, y: -0.1485247, z: 0.010055367, w: -0.9866914}
     speed: 2
-    m_Value: {x: 0.0482667, y: 0.030268053, z: -0.0015270821, w: 0.9983746}
+    m_Value: {x: -0.06700743, y: -0.148509, z: 0.010054303, w: -0.9865871}
   m_Size:
-    m_Target: 9.53793
+    m_Target: 3.305141
     speed: 2
-    m_Value: 9.53793
+    m_Value: 3.305141
   m_Ortho:
     m_Target: 0
     speed: 2

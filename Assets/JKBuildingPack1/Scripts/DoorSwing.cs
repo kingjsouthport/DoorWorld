@@ -123,7 +123,7 @@ namespace JKBuildingPack
             // Check if the open state has changed
             if (isOpen && !wasOpen)
             {
-                if (audiosource)
+                if (openingSound)
                 {
                     //audiosource.volume = volume;
                     audiosource.PlayOneShot(openingSound);
@@ -132,7 +132,7 @@ namespace JKBuildingPack
             }
             else if (!isOpen && wasOpen)
             {
-                if (audiosource)
+                if (closingSound)
                 {
                     //audiosource.volume = volume;
                     audiosource.PlayOneShot(closingSound);
