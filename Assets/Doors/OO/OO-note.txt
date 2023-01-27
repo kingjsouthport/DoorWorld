@@ -1,3 +1,0 @@
-Exported as DAE-FBX rather than FBX.
-
-Material is stark black so may not render well.

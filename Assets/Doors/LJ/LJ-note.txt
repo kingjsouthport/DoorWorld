@@ -1,6 +1,0 @@
-Maya .mb file submitted instead of FBX.
-
-No textures.  These are still on LJ's H: drive,
-and are not part of an .mb file; however, if this
-had been exported as FBX (with embedded media) then
-the textures would have been included with this model.
